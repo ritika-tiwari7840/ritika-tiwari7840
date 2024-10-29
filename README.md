@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Ritika Tiwari]!
+# Hi there 👋, I'm Ritika Tiwari!
 
 I’m a B.Tech CSE student passionate about coding, exploring, and building projects that solve real-world problems. Here’s a little about me and what I love to work on!
 
@@ -17,8 +17,8 @@ I’m a B.Tech CSE student passionate about coding, exploring, and building proj
 - Working on **open-source projects** and contributing to communities.
 
 ### 📈 My GitHub Stats
-![ritika-tiwari7840's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![ritika-tiwari7840](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 📫 How to Reach Me:
-- LinkedIn: [ritika-tiwari7840's LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ritika-tiwari-86a287250/])
+- LinkedIn:(https://linkedin.com/in/ritika-tiwari-86a287250/)
 - Email: your.email@example.com
